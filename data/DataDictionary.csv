@@ -1,0 +1,32 @@
+Field Name,Description,Source
+site_x,Abbreviated site location,Oyster Data Files
+Site,Location of the oysters - full name,Oyster Data Files
+Date,This is the date the data collection took place.,Oyster Data Files
+live_dead,This notes whether the individual measured oyster was alive or dead at the time of measurement. ,Oyster Data Files
+shell_height_mm,The shell height is measured from hinge to bill. ,Oyster Data Files
+total_live,This is the total number of live oysters that were counted on a partcular visit date in one ORS. ,Oyster Data Files
+Min_DO_mgL,Minimum measured value for dissolved oxygen,Dissolved Oxygen 2017-2019
+Max_DO_mgL,Maximum measured value for dissolved oxygen,Dissolved Oxygen 2017-2019
+DO_mgL_x,Average measured value for dissolved oxygen,Dissolved Oxygen 2017-2019
+Min_temp_C,Minimum measured value for temperature,Temperature 2017-2019
+Max_temp_C,Maximum measured value for temperature,Temperature 2017-2019
+temp_C_x,Average measured value for temperature,Temperature 2017-2019
+Max_sal_ppt,Maximum measured value for salinity,Salinity 2017-2019
+Min_sal_ppt,Minimum measured value for salinity ,Salinity 2017-2019
+sal_ppt_x,Average measured value for salinity,Salinity 2017-2019
+site_y,Site location ,BOP Water Quality File
+sample,Sample number/letter,BOP Water Quality File
+time,Time measurement was taken,BOP Water Quality File
+latitude,Latitide of location,BOP Water Quality File
+longitude,Longitude of location,BOP Water Quality File
+depth_m,"Depth of measurement, meters",BOP Water Quality File
+temp_C_y,Water temperature in Celsius,BOP Water Quality File
+DO_mgL_y,Dissolved oxygen milligrams/liter,BOP Water Quality File
+secci_m,Depth of Secchi Disk (used to measure turbidity) in meters,BOP Water Quality File
+sal_ppt_y,Salinity parts per thousand,BOP Water Quality File
+pH,pH of the water,BOP Water Quality File
+cond_mScm,Conductivity of the water milliSiemens/cm,BOP Water Quality File
+turb_NTU,Turbidity measured in nephelometric turbidity units,BOP Water Quality File
+TDS_gL,Total dissolved solids in grams/Liter,BOP Water Quality File
+instrument_used,Instrument used in measurement,BOP Water Quality File
+notes,Notes,BOP Water Quality File
