@@ -47,7 +47,7 @@
 * [Python 5 - Strings](https://docs.google.com/presentation/d/1ylNhp7InH3jlFHn8921Csk3RhlZd_Wxh4jt5Vxzl1iw/edit?usp=drive_link)
   * [Challenge 5](https://docs.google.com/document/d/1Sr_zJKjAbdtDEzWjSuVXbi8vAFsxtuvQ-Tv8bxWm-r4/edit?usp=drive_link)
 * [Python 6 - Lists and dictionaries](https://docs.google.com/presentation/d/15Uh9rDw_z93eJuikktSvTl1XwGwWoJbcNqgS19Vo5Ek/edit?usp=drive_link)
-  * (Challenge 6)[https://docs.google.com/document/d/1E2rkdJ4O-PokNsDvUKTdje2Fzrw-OWvHQloVnG7JgSQ/edit?usp=drive_link]
+  * [Challenge 6](https://docs.google.com/document/d/1E2rkdJ4O-PokNsDvUKTdje2Fzrw-OWvHQloVnG7JgSQ/edit?usp=drive_link)
 
 ### Data Science Slides and Challenges
 
