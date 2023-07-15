@@ -43,7 +43,7 @@
 * [Python 3 - if, elif, else, and](https://docs.google.com/presentation/d/1AIYkvfaCB6LOTS3cRAHv-IbwaJ0kyCpOW3kscXeT4as/edit?usp=drive_link)
   * [Challenge 3](https://docs.google.com/document/d/19j4iZ3iJ7TPr5EXLNJ3MvrkePBIo_MP-lR2sj_Kmzh8/edit?usp=drive_link)
 * [Python 4 - Loops](https://docs.google.com/presentation/d/12YktJHg0x_bKTDsqSHER4F4eZpj79UyEkxYByiZjDT4/edit?usp=drive_link)
-  * (Challenge 4)[https://docs.google.com/document/d/1xSj52kvp8XGZ10Y9vnonl8i19x_YZP3TMwjIQkcNavQ/edit?usp=drive_link]
+  * [Challenge 4](https://docs.google.com/document/d/1xSj52kvp8XGZ10Y9vnonl8i19x_YZP3TMwjIQkcNavQ/edit?usp=drive_link)
 * [Python 5 - Strings](https://docs.google.com/presentation/d/1ylNhp7InH3jlFHn8921Csk3RhlZd_Wxh4jt5Vxzl1iw/edit?usp=drive_link)
   * [Challenge 5](https://docs.google.com/document/d/1Sr_zJKjAbdtDEzWjSuVXbi8vAFsxtuvQ-Tv8bxWm-r4/edit?usp=drive_link)
 * [Python 6 - Lists and dictionaries](https://docs.google.com/presentation/d/15Uh9rDw_z93eJuikktSvTl1XwGwWoJbcNqgS19Vo5Ek/edit?usp=drive_link)
