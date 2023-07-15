@@ -51,8 +51,12 @@
 
 ### Data Science Slides and Challenges
 
+#### Slides
+
 * [Datascience 1](https://drive.google.com/file/d/1jUlW5Kx3NUcG4TY7crvRUYerVY0RlGC1/view?usp=drive_link)
 * [Datascience 2](https://drive.google.com/file/d/1mhDvTSOopgmb1oYTv0Dgu5qn8ly_E0nU/view?usp=sharing)
+
+#### Challenges
 
 * [Challenge 1](https://drive.google.com/file/d/171pB6HSQDaTrDMJ6zMHqRswAYCeAtLju/view?usp=drive_link)
 * [Challenge 2](https://drive.google.com/file/d/14SdGS8n9epc1FIJt3DdsuoLca-3YXfpp/view?usp=drive_link)
@@ -73,7 +77,7 @@
 ## Datasets
 
 * NYC Open Data, subway entrances, dog licenses, film permits etc.
-* (Datasets)[https://docs.google.com/document/d/1Lz48gXGd4zgYHCuZA4-mO7Yn_vkv02SJMQpY4uvtYrY/edit?usp=sharing]
+* [Datasets](https://docs.google.com/document/d/1Lz48gXGd4zgYHCuZA4-mO7Yn_vkv02SJMQpY4uvtYrY/edit?usp=sharing)
   
 ## Students' work
 
