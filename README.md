@@ -10,7 +10,7 @@
 
 * [Staff & Speakers directory](https://docs.google.com/presentation/d/1zT7AffyeKGTOfyiIqbvSfspr8_mpF74jQ2mJmuROOtA/edit?usp=sharing)
 * Instructors: Dr. Parisi, Dr. Guida, Dr. Scharff
-* Thanks to our wonderful mentors: 
+* Thanks to our wonderful mentors: Aida Bozulan, Omari Brockington, Lauren DeMaio, Rutik Kothwala, Dominick Sacchetti, Chandani Thumar
 * Staff: Melanie Madera, Jackie Wong
 
 ## Learning outcomes
