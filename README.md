@@ -1,4 +1,4 @@
-# STEM COMPUTING INSTITUTE (CSI) 2023
+# STEM COMPUTING INSTITUTE (SCI) 2023
 
 <img width="172" alt="mylogo" src="https://github.com/PACESTEM/STEMINSTITUTE2023/assets/761057/ecfba838-a2a5-4272-af6a-72cae869ff35">
 
