@@ -54,7 +54,7 @@
 #### Slides
 
 * [Datascience 1](https://drive.google.com/file/d/1jUlW5Kx3NUcG4TY7crvRUYerVY0RlGC1/view?usp=drive_link)
-* [Datascience 2](https://drive.google.com/file/d/1mhDvTSOopgmb1oYTv0Dgu5qn8ly_E0nU/view?usp=sharing)
+* [Datascience 3](https://drive.google.com/file/d/1mhDvTSOopgmb1oYTv0Dgu5qn8ly_E0nU/view?usp=sharing)
 
 #### Challenges
 
