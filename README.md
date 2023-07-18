@@ -51,7 +51,7 @@
 
 ### Data Science Slides and Challenges
 
-#### Slides
+#### Slides (in Google Colab)
 
 * [Data Science 1](https://drive.google.com/file/d/1jUlW5Kx3NUcG4TY7crvRUYerVY0RlGC1/view?usp=sharing)
 * [Data Science 2](https://drive.google.com/file/d/1I1PCL91BhHTCdGg8AoFidTzZ1cDT9KJd/view?usp=drive_link)
