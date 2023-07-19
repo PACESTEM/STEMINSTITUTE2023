@@ -63,7 +63,7 @@
 * [Challenge 2](https://drive.google.com/file/d/14SdGS8n9epc1FIJt3DdsuoLca-3YXfpp/view?usp=drive_link)
 * [Challenge 3](https://drive.google.com/file/d/193vC4toDzI3eC60ng1WKbh7GRZDJdHp1/view?usp=drive_link)
 
-#### Project
+### Project
 
 [Infos](https://github.com/PACESTEM/STEMINSTITUTE2023/blob/main/project.md) about the project
 
