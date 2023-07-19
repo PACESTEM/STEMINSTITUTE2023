@@ -1,5 +1,7 @@
 # Project
 
+## Steps to work on the project
+
 *  Work as a team
 *  Work on NYC data
     * Explore the provided data files
@@ -22,7 +24,7 @@
 * Use of story telling during the presentation
 * Mentors will collect presentations and notebooks - all in Google Drive
 
-# Presentation outline
+## Presentation outline
 
 This is recommended but you can modify to some extent. The presentations are 10-minute long (maximum).
 
