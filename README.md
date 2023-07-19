@@ -67,6 +67,11 @@
 
 [Infos](https://github.com/PACESTEM/STEMINSTITUTE2023/blob/main/project.md) about the project
 
+## Datasets
+
+* NYC Open Data, subway entrances, dog licenses, film permits etc.
+* [Datasets](https://docs.google.com/document/d/1Lz48gXGd4zgYHCuZA4-mO7Yn_vkv02SJMQpY4uvtYrY/edit?usp=sharing)
+* Download the datasets [here](https://drive.google.com/drive/folders/1r1zCi6PUikHR-vAF-SY3E3kNsFRs2cMt?usp=sharing)
 ## Tools
 
 * Communication - Discord
@@ -78,11 +83,6 @@
 ## Panel
 
 * Seidenberg students' panel
-
-## Datasets
-
-* NYC Open Data, subway entrances, dog licenses, film permits etc.
-* [Datasets](https://docs.google.com/document/d/1Lz48gXGd4zgYHCuZA4-mO7Yn_vkv02SJMQpY4uvtYrY/edit?usp=sharing)
   
 ## Students' work
 
